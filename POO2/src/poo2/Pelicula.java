@@ -60,7 +60,6 @@ public class Pelicula {
     public void setActores(String[] actores) {
         this.actores = actores;
     }
-
     /**
      * @return the dirrectores
      */
